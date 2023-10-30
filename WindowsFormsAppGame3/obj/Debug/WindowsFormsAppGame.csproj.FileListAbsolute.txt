@@ -1,0 +1,10 @@
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.exe.config
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.exe
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\bin\Debug\WindowsFormsAppGame.pdb
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.csproj.AssemblyReference.cache
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.Form1.resources
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.Properties.Resources.resources
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.csproj.GenerateResource.cache
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.csproj.CoreCompileInputs.cache
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.exe
+C:\Users\Mamet\source\repos\WindowsFormsAppGame\obj\Debug\WindowsFormsAppGame.pdb
